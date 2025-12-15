@@ -1,0 +1,23 @@
+GRANT Items,Description,Quantity,Unit Price,Total Price,Item Link
+Raspberry pi 5 ,,1,$80.00,$80.00,https://thepihut.com/products/raspberry-pi-5?gad_source=1&gad_campaignid=18204675107&gbraid=0AAAAADfQ4GHvhSP5c4_iR2Z--iLy-GB21&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xOG40qwhR_vK0VsOdJBXGwcJg_ZxvsRvbgkBgMJJ-rIkFyHKMUVpcMaAh1pEALw_wcB&variant=42531604922563
+Raspberry Pi 5 cooling fan,Cooling fan,1,$4.00,$4.00,https://www.aliexpress.com/item/1005006738849604.html?spm=a2g0o.order_list.order_list_main.176.73d31802WxNJND
+PLA Fillament,Body,1,$24.00,$24.00,https://uk.store.bambulab.com/products/pla-matte?id=40215560978492
+ESP32,Controller for audio and motors,1,$4.00,$4.00,ESP32 WROOM-32 Development Board TYPE-C Micro USB WiFi+Bluetooth Ultra-Low Power Consumption SPI Flash 32Mbits Wireless Module - AliExpress
+SSD1322 3.2 inch oled,Oled display,1,$16.00,$16.00,"DIYTZT Real OLED Display 3.12"" 256*64 25664 Dots Graphic LCD Module Display Screen LCM Screen SSD1322 Controller Support SPI - AliExpress"
+WS2812B strip lights,Addressable LED lights,1,$4.00,$4.00,https://www.aliexpress.com/item/2036819167.html?spm=a2g0o.order_list.order_list_main.205.73d31802WxNJND
+7.4V  8000mah Li-ion,Battery,1,$8.00,$8.00,https://www.aliexpress.com/item/1005010315311296.html?spm=a2g0o.order_list.order_list_main.170.1a471802EGVI84
+XL4015,buck step down module,1,$1.50,$1.50,1-10pcs XL4015 Constant Voltage Current Step Down Buck Module DC-DC 5V-32V to 0.8V-30V 5A adjust Lithium Battery Charger Board - AliExpress
+N20 150RPM motors ,Movment,2,$8.00,$16.00,GA12-N20 DC 3V 6V 12V Micro Metal Gear Motor Gear Wheel Gear Motor 30RPM 50RPM 60RPM 100RPM 150RPM 200RPM 300RPM 600RPM 1000RPM - AliExpress 13
+USB Mic,Audio input,1,$2.00,$2.00,https://www.aliexpress.com/item/1005006032566949.html?spm=a2g0o.order_list.order_list_main.235.55d81802okebjo
+TB6612FNG,Motor dirver,1,$1.50,$1.50,TB6612 DRV8833 Dual Motor Driver 1A TB6612FNG for Arduino Microcontroller Better than L298N - AliExpress
+4ohm 3W speaker,Audio output,1,$2.00,$2.00,2PCS 3525/2535 Speaker 4Ohm 3W 4Ohm 2W Full Range BOX Cavity Sound Speaker High Fidelity Speaker Accessories - AliExpress
+XT30 connectors,Battery to buck connectors,1,$1.70,$1.70,XT30 XT-30 Plug Male Female Bullet Connectors Plugs For RC Lipo Battery Quadcopter Multicopter For Aircraft accessories parts - AliExpress
+PAM8403,Audio amplifer,1,$1.30,$1.30,https://www.aliexpress.com/item/1005008741597709.html?spm=a2g0o.order_list.order_list_main.256.31321802FYZ6WB
+PCM2704,digital to analog convertor,1,$2.00,$2.00,https://www.aliexpress.com/item/1005010419248796.html?spm=a2g0o.productlist.main.1.5220fF20fF20wC&algo_pvid=5a84aa5e-dd4b-4c11-b742-ac5412a307a8&algo_exp_id=5a84aa5e-dd4b-4c11-b742-ac5412a307a8-0&pdp_ext_f=%7B%22order%22%3A%222%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%217.65%211.86%21%21%2169.98%2116.97%21%40210390c917658250925511545ef169%2112000052348054147%21sea%21UK%216033517876%21X%211%210%21n_tag%3A-29919%3Bd%3A8f166a33%3Bm03_new_user%3A-29895%3BpisId%3A5000000195636737&curPageLogUid=Cx0zuczwZokt&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010419248796%7C_p_origin_prod%3A
+,,,,,
+SELF PROVIDED ITEMS (NO GRANT REQUIRED),,,,,
+330ohm resistor,,,,,
+64GB SDcard ,,,,,
+4 M2.5 screws,,,,,
+N-Channel MOSFET,,,,,
+,,TOTAL FOR GRANT ITEMS:,,$168.00,
