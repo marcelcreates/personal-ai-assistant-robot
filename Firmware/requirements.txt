@@ -1,7 +1,8 @@
 openai
+websockets
 sounddevice
 numpy
 pyserial
+speechrecognition
 pillow
 luma.oled
-webrtcvad
