@@ -19,3 +19,5 @@ With this inital design (v1):
 Bellow is a wiring diagram to represent how all the components (listed in the BOM) will be wired, I have not included the 7.4v 18650 battery connection to the XL4015 as the wiring there is self explanatory, also the digital to analog converter on the right represents the PCM2704 part as I could not find the part visual anywhere on the internet
 <img width="4195" height="2266" alt="WiringDiagram" src="https://github.com/user-attachments/assets/97fb0fba-7560-407d-b7bd-3fc1051d0ecf" />
 
+## BOM
+The BOM is available here in the docs folder: [View BOM](docs/BOM%20-%20v1.csv)
